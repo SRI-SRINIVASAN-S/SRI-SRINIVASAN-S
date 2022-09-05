@@ -1,33 +1,27 @@
 ![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)
 <h1 align="center">Hi 👋, I'm SRI SRINIVASAN S</h1>
-<h3 align="center">Currently Learning Full Stack Web Development with Advanced Technology.</h3>
+<h3 align="center">Learning Full Stack Web Development in AlmaBetter.</h3>
 
 
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding image" width="300" >
 
 
-
-- 🔭 I’m currently working on **Not working I'm Learning.**
-
 - 🌱 I’m currently learning **Full Stack Web Development with blockchain technology.**
 
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/s-sri-srinivasan-03458b184/)
+- 🤝 I’m looking for help with **Learning New Tools & Technology in Web Development.**
 
-- 🤝 I’m looking for help with **Career guidance.**
+- 💬 Ask me about **Frontend Web Development Tools & Technology **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SRI-SRINIVASAN-S](https://github.com/SRI-SRINIVASAN-S)
 
-- 💬 Ask me about **Full Stack Development or any tech related stuff.**
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/sri-srinivasan-s/)
 
 - 📫 How to reach me **srini624618@gmail.com**
 
-- ⚡ Fun fact **I would love to work with same minded people like me as a team.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ssrisrinivasan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ssrisrinivasan4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/s sri srinivasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s sri srinivasan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sri-srinivasan-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s sri srinivasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
