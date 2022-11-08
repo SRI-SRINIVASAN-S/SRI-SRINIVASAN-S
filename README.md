@@ -1,5 +1,5 @@
 ![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)
-<h1 align="center">Hi 👋, I'm SRI SRINIVASAN S</h1>
+<h1 align="center">Hi 👋, I'm Sri Srinivasan S</h1>
 <h3 align="center">MERN STACK </h3>
 
 
@@ -7,11 +7,11 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding image" width="300" >
 
 
-- 🌱 I’m currently learning **Full Stack Web Development & Blockchain technology.**
-
-- 🤝 I’m looking for help with **Learning New Tools & Technology in Web Development.**
+- 🌱 I’m currently learning **Full Stack Web Development & Blockchain Technology.**
 
 - 💬 Ask me about **Frontend & Backend Web Development Tools & Technologies **
+
+- 🤝 I’m looking for help with **Learning New Tools & Technology in Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SRI-SRINIVASAN-S](https://github.com/SRI-SRINIVASAN-S)
 
