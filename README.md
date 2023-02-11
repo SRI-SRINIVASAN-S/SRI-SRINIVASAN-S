@@ -7,7 +7,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding image" width="300" >
 
 
-- 🌱 I’m currently learning **I am actively learning and honing my skills in the MERN stack, building projects and expanding my knowledge every day.**
+- 🌱 **I am actively learning and improving my skills in the MERN stack by building projects and expanding my knowledge daily.**
 
 - 💬 Ask me about MERN Stack
 
