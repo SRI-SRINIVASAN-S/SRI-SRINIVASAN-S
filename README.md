@@ -1,4 +1,4 @@
-![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h1 align="center">Hi 👋, I'm Sri Srinivasan S</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer </h3>
 
